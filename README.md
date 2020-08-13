@@ -1,2 +1,2 @@
 # LearningCurve
-Sample codes for learning languages
+Sample codes for learning curves
